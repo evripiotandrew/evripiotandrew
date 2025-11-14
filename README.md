@@ -1,9 +1,9 @@
 ## Greetings, I am Andreas Evrypiotis 👋
 ***
-<span style="color: white;">README currently offline.</span><br>
-<span style="color: white;">Attempting mesh connection…</span><br>
-<span style="color: white;">Timeout.</span><br>
-<span><span style="color: blue;">Try</span> again later.</span>
+<font color="white">README currently offline.</font><br>
+<font color="white">Attempting mesh connection…</font><br>
+<font color="white">Timeout.</font><br>
+<font color="blue">Try</font> again later.
 
 
 
