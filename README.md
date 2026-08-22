@@ -21,7 +21,9 @@ focus=(
 )
 
 hobbies=(
-    "Mathematics"
+    "Mathematics" 
+    "3D Printing" 
+    "PCB Design"
 )
 
 building="Projects alongside my University studies"
@@ -31,6 +33,7 @@ volunteered=(
     "AIAI 2026"
 )
 
-workplaces=("pi0t-space" "EPICTETUS HMU" "DI Coding Club" "IEEE UPatras" "SenseLab TUC" "ASHRAE HMU" "Fearagon")
+workstreams=("pi0t-space" "EPICTETUS HMU" "DI Coding Club" "IEEE UPatras" "SenseLab TUC" "IEEE NTUA CS Chapter" "ASHRAE HMU" "Fearagon")
+
+status="ReadME remains underdevelopment"
 ```
-I am still thinking the rest of the ReadME...
