@@ -1,5 +1,5 @@
 ## Well, hello there. 👋  
-***You found your way here somehow. I am Andrew Or Eyro. Depends who’s asking.***👋
+<i>You found your way here somehow. I am Andrew or Evro. Depends who's asking.</i> 
 ***
 <font color="white">README currently offline.</font><br>
 <font color="white">Attempting mesh connection…</font><br>
