@@ -35,5 +35,5 @@ volunteered=(
 
 workstreams=("pi0t-space" "EPICTETUS HMU" "DI Coding Club" "IEEE UPatras" "SenseLab TUC" "IEEE NTUA CS Chapter" "ASHRAE HMU" "Fearagon")
 
-status="ReadME remains underdevelopment"
+status="ReadME remains under development"
 ```
