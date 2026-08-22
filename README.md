@@ -28,4 +28,5 @@ building="Engineering projects alongside my university studies"
 collaborating="with peers from different universities"
 
 workplaces=("pi0t-space" "EPICTETUS HMU" "DI Coding Club" "IEEE UPatras" "SenseLab TUC" "ASHRAE HMU" "Fearagon")
-
+```
+I am still thinking the rest of the ReadME...
