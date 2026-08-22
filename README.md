@@ -13,6 +13,10 @@ name="Andrew"
 alias="Evro"
 locale="en_GR.UTF-8"
 
+education=(
+    "Diploma in Electronic Engineering (Integrated Master’s), Hellenic Mediterranean University (2023 - Present)"
+)
+
 focus=(
     "Embedded Systems"
     "Robotics"
