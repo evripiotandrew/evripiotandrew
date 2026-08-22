@@ -20,18 +20,29 @@ focus=(
     "RF & Communications"
 )
 
-hobbies=(
+interests=(
     "Mathematics" 
 )
 
-building="Projects alongside my University studies"
+building="Projects alongside my university studies"
 collaborating="with peers from different universities"
+contributing="wherever I am needed"
+
 volunteered=(
-    "International Week - 2024–2026 (3 consecutive years)"
+    "International Week - 2024–2026"
     "AIAI 2026"
 )
 
-workstreams=("pi0t-space" "EPICTETUS HMU" "DI Coding Club" "IEEE UPatras" "SenseLab TUC" "IEEE NTUA CS Chapter" "ASHRAE HMU" "Fearagon")
+involved_in=(
+    "pi0t-space"
+    "EPICTETUS HMU"
+    "DI Coding Club"
+    "IEEE UPatras"
+    "SenseLab TUC"
+    "IEEE NTUA CS Chapter"
+    "ASHRAE HMU"
+    "Fearagon"
+)
 
-status="ReadME remains under development"
+status="README remains under development"
 ```
