@@ -1,24 +1,32 @@
-## Well, hello there. 👋  
-<i>You found your way here somehow. I am Andrew or Evro. Depends who's asking.</i> 
 ***
-<font color="white">README currently offline.</font><br>
-<font color="white">Attempting mesh connection…</font><br>
-<font color="white">Timeout.</font><br>
-<font color="blue">Try</font> again later.
 
+<font color="white">Initializing LoRa connection…</font><br>
+<font color="white">Searching for node…</font><br>
+<font color="blue">Connection established.</font><br>
+<font color="white">...</font>
 
+## Well, hello there. 👋  
+<i>You found your way here somehow. I am Andrew or Evro. Depends who's asking.</i>
 
-<!--
-**evripiotandrew/evripiotandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+name="Andrew"
+alias="Evro"
 
-Here are some ideas to get you started:
+focus=(
+    "Embedded Systems"
+    "Robotics"
+    "AI/ML"
+    "RF & Communications"
+)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+hobbies=(
+    "Mathematics"
+)
+
+building="Engineering projects alongside my university studies"
+collaborating="with peers from different universities"
+
+workplaces=("pi0t-space" "EPICTETUS HMU" "DI Coding Club" "IEEE UPatras" "SenseLab TUC" "ASHRAE HMU" "Fearagon")
+```
 - ⚡ Fun fact: ...
 -->
