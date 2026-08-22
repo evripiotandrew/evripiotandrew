@@ -22,8 +22,6 @@ focus=(
 
 hobbies=(
     "Mathematics" 
-    "3D Printing" 
-    "PCB Design"
 )
 
 building="Projects alongside my University studies"
