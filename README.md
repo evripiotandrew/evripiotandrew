@@ -24,8 +24,12 @@ hobbies=(
     "Mathematics"
 )
 
-building="Engineering projects alongside my university studies"
+building="Projects alongside my University studies"
 collaborating="with peers from different universities"
+volunteered=(
+    "International Week - 2024–2026 (3 consecutive years)"
+    "AIAI 2026"
+)
 
 workplaces=("pi0t-space" "EPICTETUS HMU" "DI Coding Club" "IEEE UPatras" "SenseLab TUC" "ASHRAE HMU" "Fearagon")
 ```
