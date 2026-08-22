@@ -39,12 +39,13 @@ volunteered=(
 
 involved_in=(
     "pi0t-space"
-    "EPICTETUS HMU"
-    "DI Coding Club"
-    "IEEE UPatras"
-    "SenseLab TUC"
-    "IEEE NTUA CS Chapter"
-    "ASHRAE HMU"
+    "SCRUM Lab, HMU"
+    "EPICTETUS, HMU"
+    "DI Coding Club, NKUA"
+    "IEEE, UPatras"
+    "SenseLab, TUC"
+    "IEEE CS Chapter, NTUA"
+    "ASHRAE, HMU"
     "Fearagon"
 )
 
