@@ -38,7 +38,7 @@ I’m an Electronics Engineering student interested in embedded systems, robotic
 - 👥 engaging with peers from different universities
 
 ##
-## 🧠 Stack I Work With
+## 🧠 Stack I’ve Worked With
 > 🚧 **Currently updating this section.**
 
 
