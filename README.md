@@ -33,6 +33,9 @@ I’m an Electronics Engineering student interested in embedded systems, robotic
 ##
 ## 👀 What You'd Find Me Doing
 > 🚧 **Currently updating this section.**
+- 🎓 studying EE @ **[HMU](https://ee.hmu.gr/)** (4th year)
+- 🤝 volunteered at AIAI 2026 Conference and the ATHENA 11th–13th International Weeks
+- 👥 engaging with peers from different universities
 
 ##
 ## 🧠 Stack I Work With
