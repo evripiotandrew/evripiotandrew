@@ -28,7 +28,7 @@ struct Engineer {
 } Eyros;
 ```
 
-I’m an Electronics Engineering student interested in embedded systems, robotics, and machine learning. Most of my work comes from projects alongside my studies. I’m always open to interesting projects and collaborations.
+I’m an Electronics Engineering student interested in embedded systems, robotics, and machine learning, with additional interests in RF & antenna design, nanophotonics, and neuromorphic computing. I work mainly on projects alongside my studies and am always open to interesting projects and collaborations.
 
 ##
 ## 👀 What You'd Find Me Doing
