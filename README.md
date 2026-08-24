@@ -74,12 +74,15 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)](#)
 
 > **3D Design**
+
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
 [![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?logo=data:image/svg%2Bxml;base64,...)](#)
 
 > **Antenna Design**
+
 [![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
 
 > **Digital Design**
+
 [![Vivado](https://img.shields.io/badge/Vivado-FF1010?logo=xilinx&logoColor=white)](#)
 [![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
