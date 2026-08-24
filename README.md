@@ -68,9 +68,8 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=Arduino&logoColor=white)
 [![Digilent](https://img.shields.io/badge/Digilent-2C3E50?logoColor=white)](#) 
 
-**Design Softwares &amp; Development Tools**
+**Design Softwares**
 
-> **PCB Design & 3D Design Software**
 
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)](#)
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
