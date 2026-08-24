@@ -80,6 +80,7 @@ I’m an Electronics Engineering student interested in embedded systems, robotic
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
 [![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?logo=data:image/svg%2Bxml;base64,...)](#)
 [![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](#)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](#)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)](#)
