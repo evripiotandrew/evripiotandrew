@@ -42,15 +42,41 @@ I’m an Electronics Engineering student interested in embedded systems, robotic
 > 🚧 **Currently updating this section.**
 
 
-**Languages**
+**Programming Languages &amp; HDLs**
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![8051 Assembly](https://img.shields.io/badge/8051%20Assembly-8B0000?style=for-the-badge&logoColor=white)](#)
-[![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-4B0082?style=for-the-badge&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![VHDL](https://img.shields.io/badge/VHDL-5C2D91?style=for-the-badge&logoColor=white)](#)
-[![Verilog](https://img.shields.io/badge/Verilog-107C10?style=for-the-badge&logoColor=white)](#)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-%233670A0.svg?logo=python&logoColor=ffdd54)](#)
+[![8051 Assembly](https://img.shields.io/badge/8051%20Assembly-8B0000?logoColor=white)](#)
+[![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-4B0082?logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](#)
+[![VHDL](https://img.shields.io/badge/VHDL-5C2D91?logoColor=white)](#)
+[![Verilog](https://img.shields.io/badge/Verilog-107C10?logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)](#)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logoColor=white)](#)
+[![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0790C0?logo=octave&logoColor=white)](#)
+
+**Embedded &amp; Hardware**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-ED1C24?logo=espressif&logoColor=white) 
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=Arduino&logoColor=white)
+[![Digilent](https://img.shields.io/badge/Digilent-2C3E50?logoColor=white)](#)
+
+
+**Operating Systems**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?logo=kubuntu&logoColor=white)](#)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](#)
+
+**Design Softwares**
+
+[![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)](#)
+[![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
+[![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?logo=data:image/svg%2Bxml;base64,...)](#)
+[![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
