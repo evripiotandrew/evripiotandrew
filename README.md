@@ -88,7 +88,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](#)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)
 
-> **Digital &amp; Design**
+> **Digital Design**
 
 [![Vivado](https://img.shields.io/badge/Vivado-FF1010?logo=xilinx&logoColor=white)](#)
 [![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
