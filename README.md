@@ -34,9 +34,13 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 ## 👀 What You'd Find Me Doing
 > 🚧 **Currently updating this section.**
 - 🎓 studying EE @ **[HMU](https://ee.hmu.gr/)** (4th year)
-- 🤝 volunteered at AIAI 2026 Conference and the ATHENA 11th–13th International Weeks
-- 👥 engaging with peers from different universities
+- ⚡ co-coordinating a student laboratory @ **[EPICTETUS HMU](https://github.com/epictetushmu)**
+- 🧑‍💼 helping out with laboratory activities, international student engagement & university outreach @ **[HMU](https://ee.hmu.gr/)**
+- 🤝 previously volunteered at **[AIAI 2026 Conference](https://ifipaiai.org/2026/)** and the **[ATHENA 11th–13th International Weeks](https://iw.hmu.gr/)**
+- 👥 collaborating with peers from different universities
+- 🚀 hopefully contributing more to open-source projects, research & joining hackathons this year
 
+<!-- - 🤖 candidate for AI Chapter Coordinator @ **[IEEE SB UPatras](https://ieee.upatras.gr/)** --> <!-- - 📝 Volunteering as Secretary @ **[DIT Coding Club](https://codingclub.di.uoa.gr/)** -->
 ##
 ## 🧠 Stack I’ve Worked With
 > 🚧 **Currently updating this section.**
