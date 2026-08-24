@@ -84,6 +84,8 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?logo=data:image/svg%2Bxml;base64,...)](#)
 [![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
 [![Revit](https://img.shields.io/badge/Revit-186BFF?logo=autodesk&logoColor=white)](#)
+[![Vivado](https://img.shields.io/badge/Vivado-FF1010?logo=xilinx&logoColor=white)](#)
+[![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](#)
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
