@@ -59,7 +59,6 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![Verilog](https://img.shields.io/badge/Verilog-107C10?logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)](#)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logoColor=white)](#)
-[![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0790C0?logo=octave&logoColor=white)](#)
 
 **Embedded &amp; Hardware**
 
