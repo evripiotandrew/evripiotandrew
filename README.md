@@ -85,10 +85,13 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
 [![Revit](https://img.shields.io/badge/Revit-186BFF?logo=autodesk&logoColor=white)](#)
 [![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?logo=data:image/svg%2Bxml;base64,...)](#)
-[![Vivado](https://img.shields.io/badge/Vivado-FF1010?logo=xilinx&logoColor=white)](#)
-[![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](#)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)
+
+> **Digital &amp; Design**
+
+[![Vivado](https://img.shields.io/badge/Vivado-FF1010?logo=xilinx&logoColor=white)](#)
+[![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
 
 > **RF &amp; Networking Tools**
 
