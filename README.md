@@ -79,7 +79,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 
 **Design Softwares &amp; Development Tools**
 
-> **PCB Design & 3D Design**
+> **PCB Design & 3D Design Software**
 
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)](#)
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
@@ -88,6 +88,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![Vivado](https://img.shields.io/badge/Vivado-FF1010?logo=xilinx&logoColor=white)](#)
 [![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](#)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)
 
 > **RF &amp; Networking Tools**
 
