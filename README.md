@@ -65,7 +65,6 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=Arduino&logoColor=white)
 [![Digilent](https://img.shields.io/badge/Digilent-2C3E50?logoColor=white)](#)
 
-
 **Operating Systems**
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
