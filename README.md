@@ -66,15 +66,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 ![ESP32](https://img.shields.io/badge/ESP32-ED1C24?logo=espressif&logoColor=white) 
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=Arduino&logoColor=white)
-[![Digilent](https://img.shields.io/badge/Digilent-2C3E50?logoColor=white)](#)
-
-**Operating Systems**
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?logo=kubuntu&logoColor=white)](#)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=white)](#)
+[![Digilent](https://img.shields.io/badge/Digilent-2C3E50?logoColor=white)](#) 
 
 **Design Softwares &amp; Development Tools**
 
@@ -86,15 +78,3 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
 [![Vivado](https://img.shields.io/badge/Vivado-FF1010?logo=xilinx&logoColor=white)](#)
 [![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
-
-> **AI-Assisted &amp; Core Development Tools**
-
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](#)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](#)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)](#)
-[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)](#)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)](#)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)](#)
-[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white)](#)
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?logo=deepseek&logoColor=white)](#)
