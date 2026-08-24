@@ -80,6 +80,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 **Design Softwares &amp; Development Tools**
 
 > **PCB Design & 3D Design**
+
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)](#)
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
 [![Revit](https://img.shields.io/badge/Revit-186BFF?logo=autodesk&logoColor=white)](#)
