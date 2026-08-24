@@ -84,17 +84,12 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)](#)
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
 [![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?logo=data:image/svg%2Bxml;base64,...)](#)
+[![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
 
 > **Digital Design**
 
 [![Vivado](https://img.shields.io/badge/Vivado-FF1010?logo=xilinx&logoColor=white)](#)
 [![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
-
-> **RF &amp; Networking Tools**
-
-[![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](#)
-[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)](#)
 
 > **AI-Assisted &amp; Core Development Tools**
 
