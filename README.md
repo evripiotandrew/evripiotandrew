@@ -79,7 +79,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 
 **Design Softwares &amp; Development Tools**
 
-**PCB Design & 3D Design**
+> **PCB Design & 3D Design**
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)](#)
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
 [![Revit](https://img.shields.io/badge/Revit-186BFF?logo=autodesk&logoColor=white)](#)
@@ -88,12 +88,14 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 [![ISE](https://img.shields.io/badge/Xilinx%20ISE-FF1010?logo=xilinx&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](#)
 
-**RF &amp; Networking Tools**
+> **RF &amp; Networking Tools**
+
 [![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](#)
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)](#)
 
-**AI-Assisted &amp; Core Development Tools**
+> **AI-Assisted &amp; Core Development Tools**
+
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](#)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](#)
