@@ -71,6 +71,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 **Design Softwares**
 
 > **PCB Design**
+
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)](#)
 
 > **3D Design**
