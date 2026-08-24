@@ -28,7 +28,7 @@ struct Engineer {
 } Eyros;
 ```
 
-I’m an Electronics Engineering student interested in embedded systems, robotics, and machine learning, with additional interests in RF & antenna design, nanophotonics, and neuromorphic computing. I work mainly on projects alongside my studies and am always open to interesting projects and collaborations.
+I’m an Electronics Engineering student interested mostly in embedded systems, robotics, and machine learning, with an additional interests in RF & antenna design, nanophotonics, and neuromorphic computing. I work mainly on projects alongside my studies and am always open to interesting projects and collaborations.
 
 ##
 ## 👀 What You'd Find Me Doing
@@ -80,9 +80,12 @@ I’m an Electronics Engineering student interested in embedded systems, robotic
 [![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-FF5C35?logo=autodesk&logoColor=white)](#)
 [![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-E2231A?logo=data:image/svg%2Bxml;base64,...)](#)
 [![Ansys HFSS](https://img.shields.io/badge/Ansys%20HFSS-FFB71B?logo=ansys&logoColor=black)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](#)
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](#)
 [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](#)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)](#)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)](#)
