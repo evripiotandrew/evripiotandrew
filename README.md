@@ -66,9 +66,9 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=Arduino&logoColor=white)
 [![Digilent](https://img.shields.io/badge/Digilent-2C3E50?logoColor=white)](#) 
-![Hailo](https://img.shields.io/badge/Hailo-7DD3FC?style=for-the-badge)
-![Teensy](https://img.shields.io/badge/Teensy-7DD3FC?style=for-the-badge)
-![OpenMV](https://img.shields.io/badge/OpenMV-7DD3FC?style=for-the-badge)
+[![Hailo](https://img.shields.io/badge/Hailo-Edge%20AI-7DD3FC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PASTE_HAILO_SVG_BASE64_HERE&logoColor=white)](https://hailo.ai/)
+[![Teensy](https://img.shields.io/badge/Teensy-Embedded-7DD3FC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PASTE_TEENSY_SVG_BASE64_HERE&logoColor=white)](https://www.pjrc.com/teensy/)
+[![OpenMV](https://img.shields.io/badge/OpenMV-Computer%20Vision-7DD3FC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PASTE_OPENMV_SVG_BASE64_HERE&logoColor=white)](https://openmv.io/)
 
 **Design Softwares**
 
