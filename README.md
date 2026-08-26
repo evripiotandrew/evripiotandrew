@@ -6,9 +6,10 @@
 ---
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&height=80&lines=Andreas+Evrypiotis;Undergraduate+Electronics+Engineer; Robotics;AI;Embedded+Systems;Wanna+Be+Entrepreneur;Hackathons;Startups"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&height=80&lines=Andreas+Evrypiotis;Undergraduate+Electronics+Engineer;Robotics;AI;Embedded+Systems;Wanna+Be+Entrepreneur;Hackathons;Startups"
     alt="Typing SVG"
   />
+
 
   📍 Greece   • 🎓 Hellenic Mediterranean University
 </div>
