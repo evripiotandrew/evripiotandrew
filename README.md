@@ -9,6 +9,7 @@
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&height=80&lines=Andreas+Evrypiotis;Undergraduate+Electronics+Engineer;Robotics+%E2%80%A2+AI+%E2%80%A2+Embedded+Systems;Hackathons+%E2%80%A2+Startup"
     alt="Andreas Evrypiotis"
   />
+  
   📍 Greece   • 🎓 Hellenic Mediterranean University
 </div>
 
