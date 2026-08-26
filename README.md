@@ -34,7 +34,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 ## 👀 What You'd Find Me Doing
 > 🚧 **Currently updating this section.**
 - 🎓 studying EE @ **[HMU](https://ee.hmu.gr/)** (4th year)
-- ⚡ co-coordinating a student laboratory @ **[EPICTETUS HMU](https://github.com/epictetushmu)**
+- ⚡ co-coordinating a student laboratory @ **[EPICTETUS HMU](https://epictetus.hmu.gr/)**
 - 🧑‍💼 helping out with laboratory activities, international student engagement & university outreach @ **[HMU](https://ee.hmu.gr/)**
 - 🤝 previously volunteered at **[AIAI 2026 Conference](https://ifipaiai.org/2026/)** and the **[ATHENA 11th–13th International Weeks](https://iw.hmu.gr/)**
 - 👥 collaborating with peers from different universities
