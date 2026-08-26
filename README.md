@@ -66,6 +66,9 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 ![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=Arduino&logoColor=white)
 [![Digilent](https://img.shields.io/badge/Digilent-2C3E50?logoColor=white)](#) 
+![Hailo](https://img.shields.io/badge/Hailo-7DD3FC?style=for-the-badge)
+![Teensy](https://img.shields.io/badge/Teensy-7DD3FC?style=for-the-badge)
+![OpenMV](https://img.shields.io/badge/OpenMV-7DD3FC?style=for-the-badge)
 
 **Design Softwares**
 
