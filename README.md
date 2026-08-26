@@ -6,7 +6,7 @@
 ---
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&height=80&lines=Andreas+Evrypiotis;Undergraduate+Electronics+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=7DD3FC&center=true&vCenter=true&width=900&height=80&lines=Andreas+Evrypiotis;Undergraduate+Electronics+Engineer; Robotics;AI;Embedded+Systems;Wanna+Be+Entrepreneur;Hackathons;Startups"
     alt="Typing SVG"
   />
 
@@ -40,7 +40,7 @@ I’m an Electronics Engineering student interested mostly in embedded systems, 
 - 👥 collaborating with peers from different universities
 - 🚀 hopefully contributing more to open-source projects, research & joining hackathons this year
 
-<!-- - 🤖 candidate for AI Chapter Coordinator @ **[IEEE SB UPatras](https://ieee.upatras.gr/)** --> <!-- - 📝 Volunteering as Secretary @ **[DIT Coding Club](https://codingclub.di.uoa.gr/)** -->
+
 ##
 ## 🧠 Stack I’ve Worked With
 > 🚧 **Currently updating this section.**
